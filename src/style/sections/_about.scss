@@ -17,7 +17,9 @@
     -webkit-clip-path: none;
     clip-path: none;
   }
-
+  #stowarzyszenie{
+  color:black;
+  }
   .about-wrapper {
     @include respond(phone) {
       padding-bottom: 5rem;
