@@ -1,0 +1,1589 @@
+/* Wygenerowane przez narzędzia deweloperskie F12 . To może nie być dokładny odpowiednik oryginalnego pliku źródłowego */
+section[role='main'].box a {
+	text-decoration: underline;
+}
+article[role='main'].box a {
+	text-decoration: underline;
+}
+section[role='main'].box a:hover {
+	text-decoration: none;
+}
+article[role='main'].box a:hover { 
+	text-decoration: none;
+}
+aside[role='complementary'] {
+	margin-bottom: 25px;
+}
+.content-header {
+	padding: 19px 0px; width: 100%; margin-bottom: 55px; float: left;
+}
+.content-header h1 {
+	margin: 0px 0px 10px; color: rgb(255, 255, 255); line-height: 110%; font-family: "Ubuntu Medium"; font-size: 35px; font-weight: 400; display: block;
+}
+.content-header h2.custom {
+	margin: 0px 0px 10px; color: rgb(255, 255, 255); line-height: 110%; font-family: "Ubuntu Medium"; font-size: 35px; font-weight: 400; display: block;
+}
+.content-header time {
+	padding: 6px 20px 0px 0px; color: rgb(255, 255, 255); font-family: "Ubuntu Medium"; font-size: 13px; font-weight: 400; float: left;
+}
+.blue.content-header {
+	background: rgb(18, 86, 187);
+}
+
+    .blue.content-header a:focus {
+         outline: 2px solid #000 !important;
+    }
+
+.content-header ul {
+	color: rgb(255, 255, 255); font-family: "Ubuntu Medium"; font-size: 13px; font-weight: 400; display: inline-block;
+}
+.breadcrumb {
+	color: rgb(255, 255, 255); font-family: "Ubuntu Medium"; font-size: 13px; font-weight: 400; margin-bottom: 8px;
+}
+.breadcrumb::after {
+	clear: left;
+}
+.breadcrumb a {
+	padding: 5px 4px; color: rgb(255, 255, 255); position: relative;
+}
+.breadcrumb li a {
+	color: rgb(255, 255, 255);
+}
+.none-block {
+	display: none;
+}
+#pageInfo {
+	background: rgb(18, 86, 187); margin: 0px 0px 47px; color: rgb(255, 255, 255); clear: both;
+}
+#pageInfo .applications-content {
+	margin-top: 35px !important;
+}
+.content-header#pageInfo h1 {
+	padding-left: 72px !important;
+}
+.content-header#pageInfo h2.custom {
+	padding-left: 72px !important;
+}
+#pageInfo h2 {
+	padding: 15px 0px 6px; color: rgb(255, 255, 255); font-family: "Ubuntu Medium"; font-weight: 400;
+}
+#pageInfo .infoHeader {
+	margin: 6px 20px 25px 0px; border: 1px solid rgb(255, 255, 255); width: 55px; height: 67px; text-align: center; line-height: 27px; font-family: "Ubuntu Bold"; font-size: 20px; float: left; display: block;
+}
+#pageInfo .infoHeader .light {
+	font-family: "Ubuntu Light"; font-size: 13px; font-weight: 300;
+}
+#pageInfo .dateHeader {
+	margin: 14px 0px 0px 69px; font-family: "Ubuntu Medium"; font-size: 13px; font-weight: 400; display: block;
+}
+.ads-box {
+	background: rgb(236, 236, 236); margin: 0px -15px;
+}
+#messages-list {
+	width: 100%;
+}
+#messages-sidebar {
+	font-family: "Ubuntu"; position: relative;
+}
+.messages-items h2 {
+	line-height: 32px; padding-bottom: 30px; font-family: "Ubuntu Light"; font-size: 20px; font-weight: 300;
+}
+.messages-items h3 {
+	margin: 0px; font-size: 20px;
+}
+.info-date-em {
+	font-size: 12px;
+}
+.info-date-error {
+	color: rgb(188, 0, 0); font-size: 12px;
+}
+.info-date-error::before {
+	padding: 2px; font-size: 18px; font-weight: bold; margin-right: 2px; content: "!";
+}
+.filter-headline {
+	font-family: "Ubuntu Light" !important; font-weight: 300 !important; margin-bottom: 40px !important;
+}
+.filter-headline-fonts {
+	font-size: 22px;
+}
+.messages-items .events li {
+	padding: 10px 0px; border-top-color: currentColor; border-top-width: medium; border-top-style: none;
+}
+.messages-items li {
+	padding: 30px 0px; border-top-color: rgb(225, 225, 225); border-top-width: 1px; border-top-style: solid;
+}
+.messages-items li h3 {
+	font-family: "Ubuntu Medium"; font-size: 20px; margin-bottom: 10px;
+}
+.filter-close {
+	background: rgb(221, 221, 221); width: 19px; height: 18px; text-align: center; color: rgb(0, 0, 0); line-height: 80%; font-family: "Ubuntu Bold"; font-size: 20px; text-decoration: none !important; margin-left: 10px; vertical-align: middle; display: inline-block; cursor: pointer;
+}
+.messages-items .filter-results {
+	margin: 40px 0px 0px; font-family: "Ubuntu Bold"; font-size: 25px;
+}
+.messages-items .filter-remove {
+	margin-top: 10px;
+}
+.messages-items .filter-remove a {
+	text-decoration: underline;
+}
+.messages-items li p {
+	margin: 0px 0px 30px; clear: both; font-size: 13px;
+}
+.messages-items time {
+	margin-top: 2px; margin-right: 15px; float: left;
+}
+.messages-items .messages-marker {
+	margin: 5px 8px 0px 0px; border-radius: 50%; width: 9px; height: 9px; float: left; -webkit-border-radius: 50%;
+}
+.messages-items .marker-green {
+	background: rgb(140, 188, 44);
+}
+.messages-items .marker-cyan {
+	background: rgb(1, 152, 147);
+}
+.messages-items .marker-orange {
+	background: rgb(228, 124, 37);
+}
+.messages-items .marker-pink {
+	background: rgb(177, 9, 107);
+}
+.messages-items .marker-violet {
+	background: rgb(82, 77, 143);
+}
+.messages-items .marker-red {
+	background: rgb(197, 14, 32);
+}
+.messages-items .marker-gray {
+	background: rgb(129, 129, 129);
+}
+.messages-items .marker-yellow {
+	background: rgb(255, 184, 18);
+}
+.messages-items .pagination-container li {
+	padding: 0px; width: 25px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none; float: left;
+}
+.messages-items .help-info {
+	text-align: right;
+}
+.messages-items .passed-event .info {
+	opacity: 0.6;
+}
+.messages-items .passed-event p {
+	opacity: 0.6;
+}
+.messages-items .more-animation {
+	color: rgb(18, 86, 187); font-family: "Ubuntu"; font-size: 12px; margin-left: 15px; display: inline-block;
+}
+#viev-message {
+	line-height: 35px; font-family: "Ubuntu Light" !important; font-size: 16px !important;
+}
+#viev-message h2 {
+	font-size: 35px; margin-bottom: 10px;
+}
+#viev-message h3 {
+	padding: 20px 0px 0px !important;
+}
+#viev-message ul li,
+#info-point-form ul li {
+	padding: 7px 0px;
+}
+#viev-message ol li,
+#info-point-form ol li {
+	padding: 7px 0px;
+}
+#info-point-form ul
+{
+	  padding-left: 23px;
+}
+#viev-message ul li,
+#info-point-form ul li {
+	list-style-type: disc;
+}
+#viev-message ol li,
+#info-point-form ol li {
+	list-style-type: decimal;
+}
+#viev-message .box-beige {
+	background: rgb(236, 236, 236); margin: 30px 0px; padding: 30px;
+}
+#viev-message .box-beige ul {
+	color: rgb(18, 86, 187);
+}
+#viev-message .box-beige ol {
+	color: rgb(18, 86, 187);
+}
+#viev-message .box-beige ul li,
+#info-point-form .box-beige ul li {
+	list-style: none;
+}
+#viev-message .box-beige ol li,
+#info-point-form .box-beige ol li {
+	list-style: none;
+}
+#viev-message .box-beige a.active {
+	color: black;
+}
+#viev-message .box-beige a:hover {
+	color: black;
+}
+#viev-message p.caption {
+	margin: 0px; padding: 20px 0px;
+}
+#text-message-sidebar li {
+	padding-bottom: 20px;
+}
+.text-page h2 {
+	line-height: 32px; font-family: "Ubuntu Light"; font-size: 20px;
+}
+.text-page .box-beige {
+	background: rgb(236, 236, 236); padding: 30px; line-height: 160%; font-family: "Ubuntu"; font-size: 14px; margin-bottom: 30px;
+}
+.text-page .description.box-beige {
+	padding-bottom: 10px;
+}
+.text-page .description.box-beige p {
+	padding-top: 20px;
+}
+.text-page .box-beige blockquote {
+	margin: 0px; padding: 0px; border: currentColor; font-family: "Ubuntu Light"; font-size: 20px;
+}
+.text-page .box-beige .caption em {
+	font-size: 13px;
+}
+.text-page .box-beige ul {
+	color: rgb(18, 86, 187);
+}
+.text-page .box-beige ol {
+	color: rgb(18, 86, 187);
+}
+.text-page .box-beige ul li {
+	list-style: none;
+}
+.text-page .box-beige ol li {
+	list-style: none;
+}
+.text-page .box-beige a.active {
+	color: black;
+}
+.text-page .box-beige a:hover {
+	color: black;
+}
+.text-page .box-beige p {
+	margin: 0px; padding-bottom: 15px;
+}
+.text-page .box-beige img {
+	width: 100%;
+}
+.text-page-content {
+	line-height: 35px; margin-top: 35px;
+}
+.text-page-content h2, .text-page-format h2 {
+	padding: 20px 0px; font-family: "Ubuntu Medium"; font-size: 30px;
+}
+.text-page-content ul, .text-page-format ul {
+	padding-left: 23px;
+}
+.text-page-content ol, .text-page-format ol {
+	padding-left: 23px;
+}
+.text-page-content ul li, .text-page-format ul li {
+	padding: 7px 0px;
+}
+.text-page-content ol li, .text-page-format ol li {
+	padding: 7px 0px;
+}
+.text-page-content ul li, .text-page-format ul li {
+	list-style-type: disc;
+}
+.text-page-content ol li, .text-page-format ol li {
+	list-style-type: decimal;
+}
+.text-page-content ol ol li, .text-page-format ol ol li {
+	list-style-type: lower-alpha;
+}
+.text-page-sidebar {
+	margin-top: 35px;
+}
+.text-page-sidebar h2 {
+	line-height: 26px;
+}
+.text-page-sidebar h3 {
+	margin: 0px; padding-bottom: 45px; font-family: "Ubuntu Medium"; font-size: 31px;
+}
+.text-page-sidebar li {
+	padding-bottom: 20px;
+}
+.text-page-navigation {
+	padding: 20px 0px;
+}
+.text-page-navigation .box {
+	width: 100%; height: 100px; float: left; display: inline-block;
+}
+.text-page-navigation .box-forward .visible {
+	display: block;
+}
+.text-page-navigation .box-back .visible {
+	display: block;
+}
+.text-page-navigation .box-forward .invisible {
+	display: none;
+}
+.text-page-navigation .box-back .invisible {
+	display: none;
+}
+.text-page-navigation .box-back.box {
+	background: url("/media/img/box-back.png") no-repeat left top; padding-left: 42px;
+}
+.text-page-navigation .box-forward.box {
+	background: url("/media/img/box-forward.png") no-repeat left top; padding-left: 20px; float: right;
+}
+.text-page-navigation h5 {
+	margin: 0px; padding: 0px; color: rgb(31, 105, 192); text-transform: uppercase; line-height: 26px; font-family: "Ubuntu Medium"; font-size: 16px;
+}
+.text-page-content .text-page-navigation ul {
+	margin: 0px 0px 0px -15px; padding: 0px;
+}
+.text-page-content .text-page-navigation li {
+	list-style: none; padding: 0px 15px; width: 80%; color: rgb(0, 0, 0); line-height: 16px; font-size: 12px;
+}
+.text-page-navigation li a {
+	color: rgb(0, 0, 0);
+}
+.auto.section-container > section > .title {
+	background: rgb(255, 255, 255); border: 1px solid rgb(113, 113, 113); cursor: pointer;
+}
+.auto.section-container > .section > .title {
+	background: rgb(255, 255, 255); border: 1px solid rgb(113, 113, 113); cursor: pointer;
+}
+.auto.section-container > section > .title a {
+	text-align: center; line-height: 18px; padding-top: 20px; font-family: "Ubuntu Medium"; font-size: 16px; text-decoration: none;
+}
+.auto.section-container > .section > .title a {
+	text-align: center; line-height: 18px; padding-top: 20px; font-family: "Ubuntu Medium"; font-size: 16px; text-decoration: none;
+}
+.auto.section-container > section.active > .title {
+	border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.auto.section-container > .active.section > .title {
+	border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.auto.section-container > section > .content {
+	border: 1px solid rgb(113, 113, 113);
+}
+.auto.section-container > .section > .content {
+	border: 1px solid rgb(113, 113, 113);
+}
+.text-page-tabs.section-container .active p.title {
+	background: rgb(255, 255, 255); border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(113, 113, 113) rgb(113, 113, 113) currentColor; cursor: pointer;
+}
+.text-page-tabs.section-container p.title:hover {
+	background: rgb(255, 255, 255); border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(113, 113, 113) rgb(113, 113, 113) currentColor; cursor: pointer;
+}
+.text-page-tabs.section-container .active p.title span {
+	background: rgb(18, 86, 187); left: 0px; top: 0px; width: 100%; height: 5px; display: block; position: absolute;
+}
+.text-page-tabs.section-container p.title:hover span {
+	background: rgb(18, 86, 187); left: 0px; top: 0px; width: 100%; height: 5px; display: block; position: absolute;
+}
+.mrr-tabs .header div {
+	border-bottom-color: rgb(113, 113, 113); border-bottom-width: 1px; border-bottom-style: solid;
+}
+/* Zmienione h3 na p ze względu na konflikt z szablonem FAQ */
+.mrr-tabs .header p {
+	padding: 20px; text-align: center; line-height: 18px; font-family: "Ubuntu Medium"; font-size: 16px; text-decoration: none;
+}
+.mrr-tabs .header div.active {
+	background: rgb(255, 255, 255); border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(113, 113, 113) rgb(113, 113, 113) currentColor; cursor: pointer;
+}
+.mrr-tabs .header div:hover {
+	background: rgb(255, 255, 255); border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(113, 113, 113) rgb(113, 113, 113) currentColor; cursor: pointer;
+}
+.mrr-tabs .header div.active span {
+	background: rgb(18, 86, 187); left: 0px; top: 0px; width: 100%; height: 5px; display: block; position: absolute;
+}
+.mrr-tabs .header div:hover span {
+	background: rgb(18, 86, 187); left: 0px; top: 0px; width: 100%; height: 5px; display: block; position: absolute;
+}
+.mrr-tabs .content {
+	padding-top: 10px;
+}
+.mrr-tabs .content div.notactive {
+	display: none;
+}
+.mrr-tabs .content div.active {
+	display: block;
+}
+.text-page p.caption {
+	margin: 0px; padding: 20px 0px;
+}
+.text-page-content .orbit-thumbnails-slider {
+	position: relative;
+}
+.text-page-content .orbit-thumbnails-slider .pane {
+	overflow: hidden;
+}
+.text-page-content .orbit-thumbnails-slider ul {
+	width: 10000px;
+}
+.text-page-content .orbit-thumbnails-slider ul li {
+	margin-right: 2px; float: left; display: inline-block; opacity: 0.6;
+}
+.text-page-content .orbit-thumbnails-slider ul li:hover {
+	opacity: 1;
+}
+.text-page-content .orbit-thumbnails-slider ul li.active {
+	opacity: 1;
+}
+.text-page-content .orbit-custom.orbit-container ul {
+	margin: 0px; padding: 0px;
+}
+.text-page-content .orbit-thumbnails-slider ul {
+	margin: 0px; padding: 0px;
+}
+.orbit-container a.custom-prev {
+	background: url("/media/img/sprite.png") no-repeat; width: 50px; height: 50px; display: block; position: absolute; z-index: 4;
+}
+.orbit-container a.custom-next {
+	background: url("/media/img/sprite.png") no-repeat; width: 50px; height: 50px; display: block; position: absolute; z-index: 4;
+}
+.orbit-thumbnails-slider a.prev {
+	background: url("/media/img/sprite.png") no-repeat; width: 50px; height: 50px; display: block; position: absolute; z-index: 4;
+}
+.orbit-thumbnails-slider a.next {
+	background: url("/media/img/sprite.png") no-repeat; width: 50px; height: 50px; display: block; position: absolute; z-index: 4;
+}
+.orbit-container .custom-prev {
+	top: 50%;
+}
+.orbit-container .custom-next {
+	top: 50%;
+}
+.orbit-thumbnails-slider a.prev {
+	top: 48px;
+}
+.orbit-thumbnails-slider a.next {
+	top: 48px;
+}
+.orbit-thumbnails-slider a.prev {
+	background-position: -150px -150px; left: 0px;
+}
+.orbit-container a.custom-prev {
+	background-position: -150px -150px; left: 0px;
+}
+.orbit-thumbnails-slider a.next {
+	background-position: -200px -150px; right: 0px;
+}
+.orbit-container a.custom-next {
+	background-position: -200px -150px; right: 0px;
+}
+.orbit-custom .orbit-caption {
+	display: none;
+}
+.info-box {
+	border-width: 3px 3px 3px 15px; border-style: solid; border-color: rgb(208, 221, 241); padding: 0px 15px; margin-bottom: 20px;
+}
+.important.info-box {
+	border-color: rgb(18, 86, 187);
+}
+.info-box .title {
+	padding: 6px 0px; color: rgb(18, 86, 187); font-family: "Ubuntu"; font-size: 25px;
+}
+.info-box p {
+	line-height: 24px;
+}
+.text-page dl, .punktory dl {
+	padding: 14px 0px;
+}
+.text-page dt, .punktory dt {
+	line-height: 30px;
+}
+.text-page dd, .punktory dd {
+	line-height: 30px;
+}
+.text-page dt, .punktory dt {
+	background: rgb(236, 236, 236); border-radius: 16px; width: 32px; height: 32px; text-align: center; clear: left; float: left;
+}
+.text-page dd, .punktory dd {
+	padding-left: 48px;
+}
+.text-page dd span {
+	padding: 14px 0px;
+}
+.text-page table {
+	margin: 10px 0px; width: 100%; line-height: 1.4; font-size: 13px; border-top-color: rgb(218, 218, 218); border-left-color: rgb(218, 218, 218); border-top-width: 1px; border-left-width: 1px; border-top-style: solid; border-left-style: solid;
+}
+.text-page table.narrow th {
+	width: 70%;
+}
+.text-page table.narrow th:first-child {
+	width: 30%;
+}
+.text-page table th {
+	padding: 26px 0px 26px 7px; border-right-color: rgb(218, 218, 218); border-bottom-color: rgb(218, 218, 218); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+.text-page table td {
+	padding: 26px 0px 26px 7px; border-right-color: rgb(218, 218, 218); border-bottom-color: rgb(218, 218, 218); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+.text-page table.narrow th {
+	padding: 4px 55px; text-align: left;
+}
+.text-page table.narrow td {
+	padding: 4px 55px; text-align: left;
+}
+.text-page table.narrow th:first-child {
+	padding: 4px 30px;
+}
+.text-page table.narrow td:first-child {
+	padding: 4px 30px;
+}
+.text-page table th {
+	background: rgb(236, 236, 236);
+}
+.text-page ul .info-box {
+	margin-left: -25px;
+}
+#files-list {
+	width: 100%;
+}
+#files-list-sidebar {
+	padding: 15px 15px 25px; font-family: "Ubuntu"; position: relative;
+}
+#abc {
+	overflow: hidden;
+}
+#abc .sticky-sidebar {
+	overflow: hidden;
+}
+#abc .sticky-sidebar {
+	margin-top: 150px;
+}
+#abc h2 {
+	font-size: 20px;
+}
+#abc li {
+	float: left;
+}
+#abc li a {
+	width: 35px; text-align: center; color: rgb(0, 0, 0); font-family: "Ubuntu Light"; font-size: 35px; margin-bottom: 30px; display: block;
+}
+#abc li span {
+    width: 35px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: "Ubuntu Light";
+    font-size: 35px;
+    margin-bottom: 30px;
+    display: block;
+}
+#abc li.active a {
+	color: rgb(18, 86, 187);
+}
+#alphabet-list li h3.active + p {
+	display: block;
+}
+#faq .list-item h3 {
+	color: rgb(18, 86, 187); font-size: 19px; cursor: pointer;
+}
+#alphabet-list .list-item h3 {
+	color: rgb(18, 86, 187); font-size: 19px; cursor: pointer;
+}
+#alphabet-list .list-item h3:hover {
+	text-decoration: underline;
+}
+#alphabet-list p {
+	font-family: "Ubuntu Light"; font-size: 20px; font-weight: 300; margin-top: 50px;
+}
+#faq .list-item h3 i {
+	transition:0.2s ease-in; -moz-transition: all 0.2s ease-in 0s; -o-transition: all 0.2s ease-in 0s;
+}
+#alphabet-list .list-item h3 i {
+	transition:0.2s ease-in; -moz-transition: all 0.2s ease-in 0s; -o-transition: all 0.2s ease-in 0s;
+}
+#faq .list-item h3.active i {
+	-webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -o-transform: rotate(180deg);
+}
+#alphabet-list .list-item h3.active i {
+	-webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -o-transform: rotate(180deg);
+}
+#alphabet-list #small-search a:hover {
+	color: rgb(255, 255, 255); opacity: 0.6;
+}
+.sidebar-list li {
+	margin-bottom: 10px;
+}
+#list-of-links h4 {
+	font-family: "Ubuntu Light"; font-size: 16px; margin-bottom: 10px;
+}
+#list-of-links h5 {
+	color: rgb(18, 86, 187); font-family: "Ubuntu"; font-size: 16px;
+}
+#list-of-links .download-files {
+	border-left-color: rgb(236, 236, 236); border-left-width: 1px; border-left-style: solid;
+}
+#list-of-links .download-files p {
+	padding-left: 15px;
+}
+#list-of-links .file-description {
+	margin: 0px; color: rgb(18, 86, 187); font-family: "Ubuntu";
+}
+#list-of-links .file-size span {
+	color: rgb(18, 86, 187);
+}
+#list-of-links .expand-files-list i.icon {
+	transition:0.2s ease-in; -moz-transition: all 0.2s ease-in 0s; -o-transition: all 0.2s ease-in 0s;
+}
+#list-of-links .active.expand-files-list i.icon {
+	-webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -o-transform: rotate(180deg);
+}
+.boxes-links-list {
+	margin: 55px 0px 35px;
+}
+:last-child.boxes-links-list {
+	margin-bottom: 35px;
+}
+.boxes-links-list li {
+	padding: 0px 5px 10px;
+}
+.blue-boxes.boxes-links-list li {
+	padding: 0px 2px 4px;
+}
+.boxes-links-list li a {
+	padding: 55px 10px 0px 25px; height: 175px; overflow: hidden; text-decoration: none !important; border-top-color: rgb(188, 189, 192); border-top-width: 10px; border-top-style: solid; display: block; background-color: rgb(236, 236, 236);
+}
+.boxes-links-list li a:hover {
+	text-decoration: none;
+}
+.boxes-links-list li a:focus {
+	text-decoration: none;
+}
+.boxes-links-list li a h3 {
+	text-transform: uppercase; font-size: 13px; margin-bottom: 0px;
+}
+
+.boxes-links-list li a h3 b {
+	color: rgb(18, 86, 187); text-transform: none; font-size: 20px; font-weight: 500; margin-bottom: 7px; display: block;
+}
+.boxes-links-list li a p {
+	color: rgb(0, 0, 0);
+}
+/*
+.boxes-links-list li a:hover h3 b {
+	color: rgb(0, 0, 0);
+}
+.boxes-links-list li a:focus h3 b {
+	color: rgb(0, 0, 0);
+}*/
+.boxes-links-list li a p b {
+	font-weight: 500;
+}
+.colours.boxes-links-list li a {
+	padding: 20px 25px 0px;
+}
+.colours.boxes-links-list li a:hover * {
+	text-align: center; color: rgb(255, 255, 255);
+}
+.colours.boxes-links-list li a:focus * {
+	text-align: center; color: rgb(255, 255, 255);
+}
+.colours.boxes-links-list li a h3 {
+	margin-bottom: 0px;
+}
+.colours.boxes-links-list li a h3 b {
+	line-height: 120%; font-size: 19px; display: block;
+}
+.colours.boxes-links-list li a:hover p.show {
+	display: none;
+}
+.colours.boxes-links-list li a:focus p.show {
+	display: none;
+}
+.colours.boxes-links-list li a:hover p.hide {
+	display: block;
+}
+.colours.boxes-links-list li a:focus p.hide {
+	display: block;
+}
+.colours.boxes-links-list li a p.hide {
+	text-transform: uppercase; margin-bottom: 0px;
+}
+.colours.boxes-links-list li a p.show {
+	font-size: 13px;
+}
+.colours.boxes-links-list li a p b {
+	line-height: 75%; font-size: 30px; display: block;
+}
+.colours.boxes-links-list li.turquise a {
+	border-top-color: rgb(0, 180, 170);
+}
+.colours.boxes-links-list li.turquise a:hover {
+	background: rgb(0, 180, 170);
+}
+.colours.boxes-links-list li.turquise a:focus {
+	background: rgb(0, 180, 170);
+}
+.colours.boxes-links-list li.light-green a {
+	border-top-color: rgb(164, 205, 57);
+}
+.colours.boxes-links-list li.light-green a:hover {
+	background: rgb(164, 205, 57);
+}
+.colours.boxes-links-list li.light-green a:focus {
+	background: rgb(164, 205, 57);
+}
+.colours.boxes-links-list li.orange a {
+	border-top-color: rgb(245, 128, 32);
+}
+.colours.boxes-links-list li.orange a:hover {
+	background: rgb(245, 128, 32);
+}
+.colours.boxes-links-list li.orange a:focus {
+	background: rgb(245, 128, 32);
+}
+.colours.boxes-links-list li.pink a {
+	border-top-color: rgb(208, 69, 153);
+}
+.colours.boxes-links-list li.pink a:hover {
+	background: rgb(208, 69, 153);
+}
+.colours.boxes-links-list li.pink a:focus {
+	background: rgb(208, 69, 153);
+}
+.colours.boxes-links-list li.violet a {
+	border-top-color: rgb(95, 90, 167);
+}
+.colours.boxes-links-list li.violet a:hover {
+	background: rgb(95, 90, 167);
+}
+.colours.boxes-links-list li.violet a:focus {
+	background: rgb(95, 90, 167);
+}
+.colours.boxes-links-list li.red a {
+	border-top-color: rgb(234, 28, 36);
+}
+.colours.boxes-links-list li.red a:hover {
+	background: rgb(234, 28, 36);
+}
+.colours.boxes-links-list li.red a:focus {
+	background: rgb(234, 28, 36);
+}
+.colours.boxes-links-list li.gray a {
+	border-top-color: rgb(188, 189, 192);
+}
+.colours.boxes-links-list li.gray a:hover {
+	background: rgb(188, 189, 192);
+}
+.colours.boxes-links-list li.gray a:focus {
+	background: rgb(188, 189, 192);
+}
+.colours.boxes-links-list li.gray a:hover * {
+	color: rgb(0, 0, 0);
+}
+.colours.boxes-links-list li.gray a:focus * {
+	color: rgb(0, 0, 0);
+}
+.colours.boxes-links-list li.green a {
+	border-top-color: rgb(81, 130, 8);
+}
+.colours.boxes-links-list li.green a:hover {
+	background: rgb(81, 130, 8);
+}
+.colours.boxes-links-list li.green a:focus {
+	background: rgb(81, 130, 8);
+}
+.colours.boxes-links-list li.light-brown a {
+	border-top-color: rgb(158, 148, 117);
+}
+.colours.boxes-links-list li.light-brown a:hover {
+	background: rgb(158, 148, 117);
+}
+.colours.boxes-links-list li.light-brown a:focus {
+	background: rgb(158, 148, 117);
+}
+.regional.boxes-links-list li a {
+	border-top-color: rgb(255, 213, 20);
+}
+.regional.boxes-links-list li a h3 b {
+	font-size: 20px; font-weight: 500; display: block;
+}
+.regional.boxes-links-list li a p {
+	text-transform: uppercase;
+}
+.regional.boxes-links-list li a p b {
+	line-height: 75%; font-size: 35px; display: block;
+}
+.regional.boxes-links-list li a:hover {
+	background: rgb(255, 213, 20); padding: 20px 25px 0px; text-align: center;
+}
+.regional.boxes-links-list li a:focus {
+	background: rgb(255, 213, 20); padding: 20px 25px 0px; text-align: center;
+}
+.regional.boxes-links-list li a:hover h3 {
+	width: 100%; font-weight: 300;
+}
+.regional.boxes-links-list li a:focus h3 {
+	width: 100%; font-weight: 300;
+}
+.regional.boxes-links-list li a:hover h3 br {
+	display: none;
+}
+.regional.boxes-links-list li a:focus h3 br {
+	display: none;
+}
+.regional.boxes-links-list li a:hover p {
+	display: block;
+}
+.regional.boxes-links-list li a:focus p {
+	display: block;
+}
+.regional.boxes-links-list li.dolnoslaskie a {
+	background: url("../img/linki/polska/dolnoslaskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.kujawsko-pomorskie a {
+	background: url("../img/linki/polska/kujawsko-pomorskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.lubelskie a {
+	background: url("../img/linki/polska/lubelskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.lubuskie a {
+	background: url("../img/linki/polska/lubuskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.lodzkie a {
+	background: url("../img/linki/polska/lodzkie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.malopolskie a {
+	background: url("../img/linki/polska/malopolskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.mazowieckie a {
+	background: url("../img/linki/polska/mazowieckie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.opolskie a {
+	background: url("../img/linki/polska/opolskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.podkarpackie a {
+	background: url("../img/linki/polska/podkarpackie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.podlaskie a {
+	background: url("../img/linki/polska/podlaskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.pomorskie a {
+	background: url("../img/linki/polska/pomorskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.slaskie a {
+	background: url("../img/linki/polska/slaskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.swietokrzyskie a {
+	background: url("../img/linki/polska/swietokrzyskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.warminsko-mazurskie a {
+	background: url("../img/linki/polska/warminsko-mazurskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.wielkopolskie a {
+	background: url("../img/linki/polska/wielkopolskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.regional.boxes-links-list li.zachodniopomorskie a {
+	background: url("../img/linki/polska/zachodniopomorskie.png") no-repeat 95% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li a h3 b {
+	width: 65%;
+}
+.national.boxes-links-list li a:hover {
+	background-color: rgb(188, 189, 192) !important;
+}
+.national.boxes-links-list li a:focus {
+	background-color: rgb(188, 189, 192) !important;
+}
+.national.boxes-links-list li.brandenburgia a {
+	background: url("../img/linki/europa/brandenburgia.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.meklemburgia a {
+	background: url("../img/linki/europa/meklemburgia.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.saksonia a {
+	background: url("../img/linki/europa/saksonia.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.czechy a {
+	background: url("../img/linki/europa/czechy.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.slowacja a {
+	background: url("../img/linki/europa/slowacja.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.litwa a {
+	background: url("../img/linki/europa/litwa.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.poludniowy-baltyk a {
+	background: url("../img/linki/europa/poludniowy-baltyk.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.europa-srodkowa a {
+	background: url("../img/linki/europa/europa-srodkowa.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.region-morza a {
+	background: url("../img/linki/europa/region-morza.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.interreg a {
+	background: url("../img/linki/europa/interreg.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.polska-bialorus-ukraina a {
+	background: url("../img/linki/europa/polska-bialorus-ukraina.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.national.boxes-links-list li.rosja a {
+	background: url("../img/linki/europa/rosja.png") no-repeat 100% 50% rgb(236, 236, 236);
+}
+.blue-boxes.boxes-links-list li a {
+	padding: 25px; border: 0px currentColor;
+}
+.blue-boxes.boxes-links-list li a h3 {
+	color: rgb(18, 86, 187); text-transform: none; font-size: 19px; margin-bottom: 10px;
+}
+.blue-boxes.boxes-links-list li a p {
+	font-size: 13px;
+}
+.blue-boxes.boxes-links-list li a:hover {
+	background: rgb(18, 86, 187);
+}
+.blue-boxes.boxes-links-list li a:focus {
+	background: rgb(18, 86, 187);
+}
+.blue-boxes.boxes-links-list li a:hover * {
+	color: rgb(255, 255, 255);
+}
+.blue-boxes.boxes-links-list li a:focus * {
+	color: rgb(255, 255, 255);
+}
+#boxes-with-links .regional h4 {
+	color: rgb(18, 86, 187); font-size: 20px;
+}
+#effects-of-funds > section {
+	margin-bottom: 65px;
+}
+#effects-of-funds h2 {
+	padding-bottom: 10px; margin-bottom: 35px; border-bottom-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#effects-of-funds p b {
+	line-height: 100%; font-size: 45px; display: block;
+}
+#effects-of-funds p.large-paragraph {
+	margin-bottom: 55px;
+}
+#effects-of-funds p.large-paragraph b {
+	font-size: 90px;
+}
+#effects-of-funds img {
+	margin-bottom: 20px;
+}
+#effects-of-funds :last-child.row {
+	margin-bottom: 0px;
+}
+.text-styles h2 {
+	padding-bottom: 30px; font-family: "Ubuntu Light"; font-size: 20px;
+}
+.download-files h3 {
+	margin: 0px; font-family: "Ubuntu"; font-size: 20px;
+}
+.download-files .row {
+	margin-bottom: 20px;
+}
+.files-headline {
+	font-family: "Ubuntu Light"; font-weight: 300; margin-bottom: 40px !important;
+}
+.download-files .file-description {
+	font-family: "Ubuntu Light"; font-size: 16px;
+}
+.file-size {
+	color: rgb(113, 113, 113); font-family: "Ubuntu"; font-size: 13px;
+}
+#search-results li h2 a {
+	color: rgb(147, 205, 255);
+}
+#search-results .help-info a {
+	color: rgb(147, 205, 255);
+}
+#search-results .pagination-container .pagination .prev {
+	color: rgb(147, 205, 255);
+}
+#search-results .pagination-container .pagination .next {
+	color: rgb(147, 205, 255);
+}
+#search-results h2 {
+	font-size: 1.43em;
+}
+#search-results .pagination-container .pagination p {
+	background: rgb(147, 205, 255); color: rgb(0, 0, 0);
+}
+#search-results .filter-headline {
+	color: rgb(255, 255, 255);
+}
+#search-results ul.pagination li a {
+	color: rgb(255, 255, 255);
+}
+#search-results .pagination-container .pagination .prev small {
+	color: rgb(255, 255, 255);
+}
+#search-results .pagination-container .pagination .next small {
+	color: rgb(255, 255, 255);
+}
+#search-results .filter-headline .filter-close {
+	color: rgb(0, 0, 0);
+}
+#search-results .pagination-container .pagination .prev {
+	
+}
+#search-results .pagination-container .pagination .next {
+	
+}
+#search-results .pagination-container .pagination .prev::before {
+	background: url(/media/img/sprite.png) no-repeat -550px -200px; margin: 0px 16px 2px 0px; width: 25px; height: 50px; float: left; display: block; content: "";
+}
+#search-results .pagination-container .pagination .next::before {
+	background: url(/media/img/sprite.png) no-repeat -550px -250px; margin: 0px 0px 2px 16px; width: 25px; height: 50px; float: right; display: block; content: "";
+}
+#search-results li p small {
+	font-size: 13px; margin-bottom: 5px; display: block;
+}
+#search-results .filter .icon-calender {
+	right: 40px;
+}
+#search-results .filter span {
+	color: rgb(0, 0, 0);
+}
+.pagination a:focus span.prev {
+	margin: -2px 0px 0px -2px; border: 2px solid rgb(18, 86, 187);
+}
+.pagination a:focus span.next {
+	margin: -2px 0px 0px -2px; border: 2px solid rgb(18, 86, 187);
+}
+.pagination a:focus span.next {
+	margin: -2px -2px 0px;
+}
+#applications-list li {
+	overflow: hidden; margin-bottom: 25px;
+}
+#applications-list {
+	margin-bottom: 25px;
+}
+#applications-list .info {
+	border-width: 2px; border-style: solid; width: 74px; height: 74px; text-align: center; line-height: 37px; font-family: "Ubuntu Light"; margin-right: 20px; float: left;
+}
+#applications-list .right-info {
+	width: 65%; float: left;
+}
+#applications-list .info-middle.info {
+	padding: 12px 0px;
+}
+#applications-list .info strong {
+	line-height: 18px; font-family: "Ubuntu Bold"; font-size: 32px; display: block;
+}
+#applications-list .info .info-month {
+	margin: 4px 0px; font-size: 20px; display: block;
+}
+#applications-list .title {
+	color: rgb(18, 86, 187); line-height: 25px; font-family: "Ubuntu Medium"; font-size: 20px; display: block;
+}
+#applications-list p {
+	margin: 12px 0px 0px; line-height: 25px; font-family: "Ubuntu Light"; font-size: 13px;
+}
+#applications-list p .status {
+	width: 80px; display: inline-block;
+}
+#applications-list p .date {
+	display: block;
+}
+#applications-list .results {
+	color: rgb(18, 86, 187); font-family: "Ubuntu Bold"; font-size: 13px; text-decoration: none;
+}
+#applications-list .results span {
+	text-decoration: underline;
+}
+#applications-list .results:hover span {
+	text-decoration: none;
+}
+#applications-list .location {
+	font-family: "Ubuntu Light"; font-size: 13px; font-weight: 300; display: inline-block;
+}
+#applications-list .category {
+	font-family: "Ubuntu Light"; font-size: 13px; display: block;
+}
+#applications-list .info-left {
+	float: left; display: block;
+}
+#applications-list .participate {
+	width: 130px; height: 40px; text-align: center; color: rgb(255, 255, 255); line-height: 40px; font-family: "Ubuntu Medium"; margin-top: 24px; margin-right: 30px; float: right; display: block;
+}
+#applications-list .pink {
+	border-color: rgb(208, 69, 153);
+}
+#applications-list .green {
+	border-color: rgb(119, 181, 66);
+}
+#applications-list .aqua {
+	border-color: rgb(0, 180, 170);
+}
+#applications-list .orange {
+	border-color: rgb(245, 128, 32);
+}
+#applications-list .purple {
+	border-color: rgb(95, 90, 167);
+}
+#applications-list .darkGreen {
+	border-color: rgb(68, 122, 22);
+}
+#applications-list .red {
+	border-color: rgb(234, 28, 36);
+}
+#applications-list .yellow {
+	border-color: rgb(255, 213, 20);
+}
+.info#applications .applications-filters {
+	margin-right: -15px;
+}
+.info#applications .infoText .bordered {
+	padding: 20px; border: 3px solid rgb(208, 221, 241); line-height: 26px; font-family: "Ubuntu Light"; font-size: 16px;
+}
+.info#applications .infoText-margin.infoText {
+	margin-top: -35px;
+}
+.info#applications .infoText .nomargin.bordered {
+	margin: 0px;
+}
+.info#applications .infoText .bluebg.bordered {
+	background: rgb(18, 86, 187); border-width: 0px; padding: 27px; color: rgb(255, 255, 255); line-height: 26px; font-family: "Ubuntu Light"; font-size: 16px;
+}
+.info#applications .infoText .bluebg.bordered a {
+	display: block;
+}
+.info#applications .infoText .bluebg.bordered a:hover {
+	text-decoration: none;
+}
+.info#applications .infoText .bluebg.bordered a .link_text {
+	color: rgb(255, 255, 255); font-family: "Ubuntu Medium"; text-decoration: underline;
+}
+.info#applications .infoText .bluebg.bordered a .link_description {
+	color: rgb(255, 255, 255); font-family: "Ubuntu Light"; text-decoration: none;
+}
+.info#applications .infoText .bluebg.bordered .headline {
+    color: #fff;
+}
+.info#applications .infoText .bordered .highlighted {
+	font-family: "Ubuntu Medium";
+}
+.info#applications .infoText .bordered .headline {
+	margin: 0px 0px 10px; font-family: "Ubuntu Light"; font-size: 20px;
+}
+.info#applications .infoText .bordered .headline .title {
+	text-transform: uppercase; font-family: "Ubuntu Medium"; font-size: 20px;
+}
+.text-time {
+	height: 1px; text-indent: -9999px; overflow: hidden; font-size: 1px; display: inline-block;
+}
+.info#applications .applications-filters .infoList {
+	padding: 29px 29px 5px;
+}
+.info#applications .applications-content .textBlock {
+	margin: -15px 0px 75px; display: block;
+}
+.info#applications .applications-content .textBlock h4 {
+	margin-top: -15px;
+}
+.info#applications .applications-content h2 {
+	margin: -4px 0px 0px; font-family: "Ubuntu Medium"; font-size: 35px; display: block;
+}
+.info#applications .applications-content h3 {
+	margin: 0px; font-family: "Ubuntu Medium"; font-size: 25px; display: block;
+}
+.info#applications .applications-content h4 {
+	line-height: 36px; padding-top: 35px; font-family: "Ubuntu Light"; font-weight: 300;
+}
+.info#applications .applications-content .sectionSubheadline {
+	margin: 0px 0px 14px; line-height: 36px; font-family: "Ubuntu Light"; font-size: 20px; font-weight: 300; display: block;
+}
+.info#applications .applications-content p.applications-text {
+	margin: 0px 0px 12px; line-height: 26px; font-family: "Ubuntu Light"; font-size: 16px; font-weight: 300;
+}
+.info#applications .applications-content ol {
+	margin: 0px 0px 0px 16px;
+}
+.info#applications .applications-content ol li {
+	margin: 0px 0px 12px; line-height: 26px; font-family: "Ubuntu Light"; font-size: 16px; font-weight: 300;
+}
+/* New list with applications */
+#applications.info .applications-with-list {
+    margin: 0 -27px 20px;
+    padding: 20px 27px;
+    background: #e8eef7;
+    border-left: 3px solid #D0DDF1;
+    border-right: 3px solid #D0DDF1;
+    color: #000;
+}
+
+#applications.info .applications-with-list li {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #d0ddf1;
+    font-size: 13px;
+}
+
+#applications.info .applications-with-list li:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+#applications.info .applications-with-list li h3 {
+    margin-bottom: 0;
+    font-size: 16px;
+    font-family: 'Ubuntu';
+}
+
+#applications.info .applications-with-list li p {
+    margin-bottom: 0;
+}
+
+#applications.info .applications-with-list li p strong {
+    font-family: 'Ubuntu';
+}
+
+#applications.info .no-margin {
+    margin: 0;
+}
+
+#applications.info .btn-applications {
+    display: inline-block;
+    color: #fff;
+}
+
+#applications.info .btn-applications:focus {
+    outline: 2px solid #000 !important;
+}
+
+#applications.info .btn-applications {
+    display: inline-block;
+    padding: 15px 10px;
+}
+
+#applications.info .infoText .bordered.bluebg .btn-applications.open {
+    background: #e8eef7;
+    text-decoration: underline;
+    font-size: 16px;
+    color: #1256bb;
+}
+#applications.info .infoText .bordered.bluebg .applications-with-list a
+{
+	color: #1256bb;
+    font-family: 'Ubuntu Light';
+}
+#applications.info .infoText .bordered.bluebg .no-margin a
+{	
+    font-family: 'Ubuntu Light';
+	 display: inline-block;
+}
+.post-message {
+	border-width: 2px 2px 2px 15px; border-style: solid; border-color: rgb(18, 86, 187);
+}
+.post-message h3 {
+	color: rgb(18, 86, 187); font-family: "Ubuntu Medium"; font-size: 25px;
+}
+.post-message p {
+	margin: 0px 0px 5px; font-family: "Ubuntu light";
+}
+.colored-text {
+	color: rgb(18, 86, 187);
+}
+.inactive-form p {
+	margin: 0px; font-family: "Ubuntu light"; font-size: 16px;
+}
+.forms-email p {
+	
+}
+.forms-email span {
+	font-family: "Ubuntu Medium"; font-size: 16px;
+}
+.forms-email-event {
+	margin-top: 30px; display: table;
+}
+.forms-email-event a {
+	margin-right: 20px;
+}
+.forms-email-event a:hover {
+	text-decoration: none;
+}
+.forms-email-event span {
+	color: rgb(18, 86, 187); font-family: "Ubuntu Medium"; font-size: 25px; vertical-align: middle; display: table-cell;
+}
+.forms-email-event span:hover {
+	text-decoration: underline;
+}
+.form-row textarea {
+	height: 160px;
+}
+.form-box {
+	margin-top: 20px;
+}
+.form-box label {
+	font-family: "Ubuntu Medium"; font-size: 16px; margin-top: 8px; margin-left: -45px;
+}
+.form-box input[type=text] {
+	width: 26%;
+}
+.form-box .icon-calender {
+	margin-left: 20px; float: left; cursor: pointer;
+}
+.form-box #form-box-email {
+	width: 50%;
+}
+.universal-form form > .form-row > div {
+	padding: 0px;
+}
+.universal-form .form-row .columns {
+	padding: 0px !important;
+}
+.universal-form .row .row {
+	margin: 0px;
+}
+.universal-form h3 {
+	font-size: 20px;
+}
+.universal-form p {
+	margin: 0px; font-family: "Ubuntu Light"; font-size: 16px;
+}
+.universal-form .input-big {
+	height: 142px;
+}
+.universal-form p label {
+	font-family: "Ubuntu Medium"; font-size: 16px;
+}
+.universal-form-selected {
+	padding: 10px !important; font-family: "Ubuntu"; font-size: 16px;
+}
+.universal-form small {
+	padding-bottom: 10px; margin-left: 10px;
+}
+.newsletter-subscription {
+	font-family: "Ubuntu Light"; font-size: 20px;
+}
+.newsletter-subscription h3 {
+	font-family: "Ubuntu Medium"; font-size: 35px;
+}
+.newsletter-subscription ul {
+	padding-top: 10px;
+}
+.newsletter-subscription li {
+	margin: 10px 0px 0px 40px; list-style-type: disc;
+}
+.newsletter-subscription p {
+	font-size: 16px;
+}
+.newsletter-subscription .post-message {
+	padding-left: 10px;
+}
+#site-map h2 {
+	font-family: "Ubuntu Light"; font-size: 20px; font-weight: 300; margin-bottom: 40px;
+}
+#site-map h3 {
+	padding-bottom: 5px; font-family: "Ubuntu Medium"; font-size: 35px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#site-map li {
+	margin-bottom: 7px;
+}
+#events-competitions h2 {
+	margin-top: 40px;
+}
+#events-competitions ul {
+	margin-top: 40px;
+}
+#events-competitions ul h5 {
+	font-family: "Ubuntu Medium"; font-size: 16px;
+}
+#events-competitions table {
+	margin: 10px 0px 40px; width: 100%; text-align: center; line-height: 1.4; font-family: "Ubuntu Light"; font-size: 13px; font-weight: 300; border-top-color: rgb(218, 218, 218); border-left-color: rgb(218, 218, 218); border-top-width: 1px; border-left-width: 1px; border-top-style: solid; border-left-style: solid;
+}
+#events-competitions .table-time {
+	width: 100px;
+}
+#events-competitions .table-headline {
+	width: 260px;
+}
+#events-competitions table th {
+	background: rgb(236, 236, 236);
+}
+#events-competitions table th {
+	padding: 12px; border-right-color: rgb(218, 218, 218); border-bottom-color: rgb(218, 218, 218); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+#events-competitions table td {
+	padding: 12px; border-right-color: rgb(218, 218, 218); border-bottom-color: rgb(218, 218, 218); border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid;
+}
+#events-competitions .event {
+	border: 3px solid rgb(208, 221, 241); width: 100%; margin-bottom: 30px;
+}
+#events-competitions .event .next-event {
+	background: rgb(208, 221, 241); height: 145px;
+}
+#events-competitions .next-event .participate {
+	width: 150px; height: 40px; text-align: center; line-height: 20px; font-family: "Ubuntu Medium"; font-size: 20px; margin-top: 45px;
+}
+#events-competitions .next-event p {
+	margin: 10px 0px; font-family: "Ubuntu Medium"; font-size: 25px;
+}
+#events-competitions .next-event .ico-blueclock-small {
+	margin: 0px; padding: 15px;
+}
+#events-competitions .next-event span {
+	line-height: 35px; padding-left: 0px; padding-right: 10px; font-family: "Ubuntu Light"; font-size: 20px; font-weight: 300; margin-top: -5px;
+}
+#events-competitions .another-event p {
+	margin: 10px 0px; font-family: "Ubuntu Medium"; font-size: 20px;
+}
+#events-competitions .another-event {
+	border-bottom-color: rgb(208, 221, 241); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#events-competitions .another-event .ico-blueclock-small {
+	margin: 0px; padding: 0px;
+}
+#events-competitions .another-event span {
+	line-height: 25px; padding-bottom: 30px; font-family: "Ubuntu Light"; font-weight: 300; margin-top: -5px;
+}
+#events-competitions .last-event p {
+	margin: 10px 0px; font-family: "Ubuntu Medium"; font-size: 20px;
+}
+#events-competitions .last-event .ico-blueclock-small {
+	margin: 30px 0px; padding: 0px;
+}
+#events-competitions .last-event span {
+	line-height: 25px; font-family: "Ubuntu Light"; font-weight: 300; margin-top: 25px;
+}
+#events-competitions .another-event .participate {
+	width: 150px; height: 35px; color: rgb(18, 86, 187); font-family: "Ubuntu Medium"; font-size: 20px; margin-top: 45px;
+}
+#events-competitions .last-event .participate {
+	width: 150px; height: 35px; color: rgb(18, 86, 187); font-family: "Ubuntu Medium"; font-size: 20px; margin-top: 20px;
+}
+#rss h2 {
+	font-size: 20px;
+}
+#rss ul li {
+	line-height: 25px;
+}
+.normal-text {
+	font-family: "Ubuntu Light"; font-size: 20px; font-weight: 300;
+}
+.form-uni .text-right {
+	margin-right: 10px;
+}
+.universal-form .form-row .error.columns {
+	padding: 5px 10px !important; margin-left: -10px;
+}
+.logo-mrr {
+	padding: 0px;
+}
+#alphabet-list h2 {
+	font-size: 20px;
+}
+.newsletter-subscription .columns.large-18 h5 {
+	margin-top: 20px; margin-bottom: 0px;
+}
+.newsletter-subscription .columns.large-18 ul {
+	padding-top: 0px;
+}
+.newsletter-subscription .columns.post-message.large-18 h3 {
+	margin-bottom: 0px;
+}
+.newsletter .columns.large-18 h3 {
+	font-size: 28px;
+}
+.newsletter .columns.large-18 p {
+	margin-bottom: 0px;
+}
+#newsletter .columns.large-18 h3 {
+	font-size: 20px;
+}
+.info-point-form-headline {
+	font-size: 20px; margin-bottom: 50px;
+}
+.info-point-form-headline a {
+	display: inline-block;
+}
+.forms-email h2 {
+	margin-bottom: 35px;
+}
+.captcha-header label {
+	color: rgb(0, 0, 0);
+}
+.list-animate ul li {
+	padding: 0px 2px !important; border: 0px currentColor !important; font-size: 13px; margin-top: 4px; float: left;
+}
+.list-animate ul::after {
+	clear: both;
+}
+.animate-lists {
+	display: none;
+}
+.navigation-space {
+	margin-top: 15px;
+}
+span.next:focus {
+	border: 1px solid red;
+}
+.text-page-content .section-container section .content {
+	min-width: 448px !important;
+}
+.lead-text {
+	margin: 0px 0px 35px !important; line-height: 36px !important; font-family: "Ubuntu Light" !important; font-size: 20px !important; font-weight: 300 !important;
+}
+.icon-calender-single {
+	background: url("/media/img/icon_calendar.png") no-repeat; width: 35px; height: 30px; margin-left: 10px; float: left;
+}
+.calendar-anchor {
+	left: 0px; top: 0px; width: 35px; height: 30px; text-indent: -9999px; overflow: hidden; text-decoration: none; display: block; position: absolute;
+}
+.breadcrumb-list li {
+	padding: 5px 5px 0px; float: left;
+}
+body > iframe {
+	display: none;
+}
+.flex-active-slide {
+	position: relative; z-index: 999;
+}
+.sticky-sidebar a {
+	font-size: 15px;
+}
+.sticky-sidebar li {
+	font-size: 15px;
+}
+.lt-ie9 .messages-items #applications-list .small-1 {
+	width: 15% !important;
+}
+.lt-ie9 #search-results aside {
+	padding-top: 15px !important; padding-bottom: 15px !important;
+}
+.lt-ie9 #messages-sidebar {
+	padding-top: 15px !important; padding-bottom: 15px !important;
+}
+.lt-ie9 #messages-list .icon-calender {
+	right: 15px;
+}
+.lt-ie9 #search-results .icon-calender {
+	right: 15px;
+}
+
+#applications.info .infoText .bordered.bluebg a {
+    font-family: 'Ubuntu Medium';
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+
+
+
+li.whiteHover a:hover * {
+	color:  rgb(255, 255, 255);
+}
+li.whiteHover a:focus * {
+	color:  rgb(255, 255, 255);
+}
+
+.boxes-links-list li.blackHover a:hover * {
+	color: rgb(0, 0, 0);
+}
+.boxes-links-list li.blackHover a:focus * {
+	color: rgb(0, 0, 0);
+}
